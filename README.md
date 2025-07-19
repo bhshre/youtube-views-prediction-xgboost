@@ -38,4 +38,4 @@ Likes and Comments are most predictive of view count.
 Clone this repo and open the `.ipynb` file in Google Colab.
 
 ## 📎 Author
-[Your Name] | [LinkedIn](#) | [Portfolio](#)
+[Shreya Bhattacharjee] | [LinkedIn](#) | [Portfolio](#)
